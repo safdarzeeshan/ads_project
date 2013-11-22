@@ -19,4 +19,3 @@ mainloop = gobject.MainLoop()
 mainloop.run()
 
 # this is a comment for dumbasses
-print "fuck"
